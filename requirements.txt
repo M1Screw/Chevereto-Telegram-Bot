@@ -5,7 +5,7 @@ cffi==1.14.5
 chardet>=3.0.2
 cryptography==3.4.6
 future==0.18.2
-idna==2.10
+idna==3.1
 isort==5.7.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
